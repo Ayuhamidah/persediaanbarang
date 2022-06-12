@@ -10,3 +10,4 @@ Saya hanya turut menyebarkan & berkontribusi
 
 [Deddy Rusdiansyah,S.Kom]:http://deddyrusdiansyah.blogspot.com/p/tentang-saya.html
 [disini]:http://deddyrusdiansyah.blogspot.com/2013/03/aplikasi-inventory-online-gratis.html
+# persediaanbarang
